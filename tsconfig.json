@@ -16,7 +16,16 @@
       {
         "name": "next"
       }
-    ]
+    ],
+    "baseUrl": ".",
+    "paths": {
+      "@/domain/*": ["src/server/domain/*"],
+      "@/infrastructure/*": ["src/server/infrastructure/*"],
+      "@/application/*": ["src/server/application/*"],
+      "@/*": ["src/*"]
+    },
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true
   },
   "include": [
     "next-env.d.ts",

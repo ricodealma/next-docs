@@ -1,0 +1,12 @@
+{
+  "links": [
+    {
+      "id": 1,
+      "uri": "https://example.com",
+      "description": "Example Link",
+      "domain": "multiqr.co",
+      "redirectType": "Publico",
+      "accessType": "Permanente"
+    }
+  ]
+}
