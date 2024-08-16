@@ -1,5 +1,5 @@
 {
-  "links": [
+  "link": [
     {
       "id": 1,
       "uri": "https://example.com",
@@ -7,6 +7,10 @@
       "domain": "multiqr.co",
       "redirectType": "Publico",
       "accessType": "Permanente"
+    },
+    {
+      "id": "aac4",
+      "uri": "https://github.com/inversify/InversifyJS/blob/master/wiki/container_api.md"
     }
   ]
 }

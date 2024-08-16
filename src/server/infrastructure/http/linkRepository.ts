@@ -11,15 +11,18 @@ export class LinkRepository implements ILinkRepository {
     private readonly _httpClient: IHttpClient,
     @inject(DI_TYPES.ApiBaseUrl)
     private readonly apiBaseUrl: string,
-  ) {}
+  ) { }
 
   async createLink(link: Link): Promise<Link> {
-    return await this._httpClient
+    console.log(`${this.apiBaseUrl}`)
+    const response = await this._httpClient
       .post(`${this.apiBaseUrl}/link`, link)
       .then((data) => LinkSchema.parse(data))
       .catch((error) => {
         throw new Error(error.message);
       });
+    console.log(response)
+    return response
   }
 
   async deleteLink(id: number): Promise<boolean> {

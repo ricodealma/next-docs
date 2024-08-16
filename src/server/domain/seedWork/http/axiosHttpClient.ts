@@ -1,16 +1,15 @@
 import { IHttpClient } from "@/domain/seedWork/http/IHttpClient";
+import { DI_TYPES } from "@/server/di/types";
 import axios, { AxiosInstance } from "axios";
+import { injectable, inject } from "inversify";
 
-import { injectable } from "inversify";
-
-const apiBaseUrl = 'https://localhost:3001'
 @injectable()
 export class AxiosHttpClient implements IHttpClient {
   private readonly axiosInstance: AxiosInstance;
 
-  constructor() {
+  constructor(@inject(DI_TYPES.ApiBaseUrl) private readonly baseURL: string) {
     this.axiosInstance = axios.create({
-      baseURL: apiBaseUrl,
+      baseURL: this.baseURL,
     });
   }
 

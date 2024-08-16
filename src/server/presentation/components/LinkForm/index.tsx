@@ -9,7 +9,7 @@ const LinkForm = () => {
         <input required type="text" name="uri" />
       </label>
       <br />
-      <label>
+      {/* <label>
         Id
         <input required type="number" name="id" />
       </label>
@@ -41,7 +41,7 @@ const LinkForm = () => {
           <option value={"Proprio"}>Próprio</option>
           <option value={"Compartilhado"}>Compartilhado</option>
         </select>
-      </label>
+      </label> */}
       <br />
       <button type="submit">Submit</button>
     </form>
