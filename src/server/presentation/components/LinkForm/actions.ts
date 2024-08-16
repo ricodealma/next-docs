@@ -1,6 +1,6 @@
 "use server";
 
-import { getInjection } from "@/server/di/container";
+import { ApplicationContainer, getInjection } from "@/server/di/container";
 import { DI_TYPES } from "@/server/di/types";
 import { LinkSchema } from "src/server/domain/aggregates/link/entities/link";
 import { ILinkUseCases } from "@/application/useCases/ILinkUseCases";

@@ -5,15 +5,17 @@ const ApplicationContainer = new Container({
     defaultScope: "Singleton",
 });
 
-const initializeContainer = () => {
+console.log(ApplicationContainer)
+export const initializeContainer = () => {
     ApplicationContainer.load(LinkModule);
-    console.log('oi')
+    console.log('container initialized')
 };
 
 initializeContainer()
 
 export const getInjection = <T>(symbol: symbol) => {
+    console.log('trying to get injection')
     return ApplicationContainer.get<T>(symbol);
 };
 
-export { ApplicationContainer }
+export { ApplicationContainer };

@@ -10,8 +10,9 @@ import { AxiosHttpClient } from "@/domain/seedWork/http/axiosHttpClient";
 const initializeModule = (bind: interfaces.Bind) => {
   bind<IHttpClient>(DI_TYPES.HttpClient).to(AxiosHttpClient).inSingletonScope();
   bind<string>(DI_TYPES.ApiBaseUrl).toConstantValue("http://localhost:3001");
-  bind<ILinkRepository>(DI_TYPES.LinkRepository).to(LinkRepository);
-  bind<ILinkUseCases>(DI_TYPES.LinkUseCases).to(LinkUseCases);
+  bind<ILinkRepository>(DI_TYPES.LinkRepository).to(LinkRepository).inRequestScope();
+  bind<ILinkUseCases>(DI_TYPES.LinkUseCases).to(LinkUseCases).inRequestScope();
+  console.log('module initialized')
 };
 
 export const LinkModule = new ContainerModule(initializeModule);
