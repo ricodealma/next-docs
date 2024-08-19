@@ -14,18 +14,15 @@ export class LinkRepository implements ILinkRepository {
   ) { }
 
   async createLink(link: Link): Promise<Link> {
-    console.log(`${this.apiBaseUrl}`)
-    const response = await this._httpClient
+    return await this._httpClient
       .post(`${this.apiBaseUrl}/link`, link)
       .then((data) => LinkSchema.parse(data))
       .catch((error) => {
         throw new Error(error.message);
       });
-    console.log(response)
-    return response
   }
 
-  async deleteLink(id: number): Promise<boolean> {
+  async deleteLink(id: string): Promise<boolean> {
     return await this._httpClient
       .delete<boolean>(`${this.apiBaseUrl}/link/${id}`)
       .catch((error) => {
@@ -33,7 +30,7 @@ export class LinkRepository implements ILinkRepository {
       });
   }
 
-  async selectLinkById(id: number): Promise<Link> {
+  async selectLinkById(id: string): Promise<Link> {
     return await this._httpClient
       .get(`${this.apiBaseUrl}/link/${id}`)
       .then((data) => LinkSchema.parse(data))
@@ -44,7 +41,7 @@ export class LinkRepository implements ILinkRepository {
 
   async updateLink(link: Link): Promise<Link> {
     return await this._httpClient
-      .put(`${this.apiBaseUrl}/link`, link)
+      .put(`${this.apiBaseUrl}/link/${link.id}`, link)
       .then((data) => LinkSchema.parse(data))
       .catch((error) => {
         throw new Error(error.message);

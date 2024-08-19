@@ -9,5 +9,5 @@ export const DI_TYPES = {
   LinkRepository: Symbol.for("LinkRepository"),
 
   //UseCases
-  LinkUseCases: Symbol.for("LinkUseCases"),
+  LinkService: Symbol.for("LinkService"),
 };

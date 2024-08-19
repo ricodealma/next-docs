@@ -1,10 +1,10 @@
-"use client";
+import Links from '@/server/presentation/components/Link'
+import React from 'react'
 
-import React from "react";
-import LinkForm from "src/server/presentation/components/LinkForm";
+const Page = () => {
+    return (
+        <Links />
+    )
+}
 
-const Link = () => {
-  return <LinkForm />;
-};
-
-export default Link;
+export default Page

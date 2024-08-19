@@ -1,6 +1,10 @@
 {
   "compilerOptions": {
-    "lib": ["dom", "dom.iterable", "esnext"],
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
     "allowJs": true,
     "skipLibCheck": true,
     "strict": false,
@@ -19,13 +23,22 @@
     ],
     "baseUrl": ".",
     "paths": {
-      "@/domain/*": ["src/server/domain/*"],
-      "@/infrastructure/*": ["src/server/infrastructure/*"],
-      "@/application/*": ["src/server/application/*"],
-      "@/*": ["src/*"]
+      "@/domain/*": [
+        "src/server/domain/*"
+      ],
+      "@/infrastructure/*": [
+        "src/server/infrastructure/*"
+      ],
+      "@/application/*": [
+        "src/server/application/*"
+      ],
+      "@/*": [
+        "src/*"
+      ]
     },
     "experimentalDecorators": true,
-    "emitDecoratorMetadata": true
+    "emitDecoratorMetadata": true,
+    "target": "ES2017"
   },
   "include": [
     "next-env.d.ts",
@@ -34,5 +47,7 @@
     "**/*.tsx",
     "next.config.mjs"
   ],
-  "exclude": ["node_modules"]
+  "exclude": [
+    "node_modules"
+  ]
 }
