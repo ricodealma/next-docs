@@ -1,5 +1,14 @@
-import React from "react";
+import React from 'react';
+import { AdapterProvider } from './providers/AdapterProvider';
+import { ProductList } from './components/ProductList';
 
-export default function Page() {
-  return <h1>Hello, Next.js!</h1>;
-}
+
+const Page = () => {
+  return (
+    <AdapterProvider>
+      <ProductList />
+    </AdapterProvider>
+  );
+};
+
+export default Page;
