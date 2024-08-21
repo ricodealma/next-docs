@@ -6,11 +6,13 @@ import { QueryProvider } from "@/presentation/providers/QueryProvider";
 import React from "react";
 
 const Providers = ({ children }) => {
-  return (
-    <QueryProvider>
-      <AdapterProvider>{children}</AdapterProvider>
-    </QueryProvider>
-  );
+    return (
+        <QueryProvider>
+            <AdapterProvider>
+                {children}
+            </AdapterProvider>
+        </QueryProvider>
+    );
 };
 
 export default Providers;
