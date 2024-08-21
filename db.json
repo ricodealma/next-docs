@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Smartphone XYZ",
+      "price": 299.99,
+      "description": "Um smartphone de última geração com câmera de 48MP e 128GB de armazenamento."
+    },
+    {
+      "id": 2,
+      "name": "Laptop ABC",
+      "price": 899.99,
+      "description": "Um laptop potente com processador Intel i7, 16GB de RAM e 512GB SSD."
+    },
+    {
+      "id": 3,
+      "name": "Fone de Ouvido Bluetooth",
+      "price": 89.99,
+      "description": "Fones de ouvido sem fio com cancelamento de ruído ativo e bateria de longa duração."
+    },
+    {
+      "id": 4,
+      "name": "Smartwatch 2024",
+      "price": 199.99,
+      "description": "Um smartwatch moderno com monitoramento de saúde, GPS e integração com smartphones."
+    },
+    {
+      "id": 5,
+      "name": "Câmera DSLR Pro",
+      "price": 1299.99,
+      "description": "Câmera DSLR profissional com lente intercambiável e capacidade de gravação em 4K."
+    }
+  ]
+}
