@@ -1,0 +1,1109 @@
+{
+  "url": [
+    {
+      "id": "94d561f2-5ba0-4bd1-a512-bf3c98caf27a",
+      "accessType": {
+        "id": "8a808d54-29c6-4881-8e4a-723dab300d13",
+        "description": "Próprio",
+        "active": true
+      },
+      "redirectType": {
+        "id": "7cde8655-61e4-49ac-88b5-8b2debc19d11",
+        "description": "Permanente",
+        "active": true
+      },
+      "domain": {
+        "id": "7cde8655-61e4-49ac-88b5-8b2debc19d11",
+        "description": "multiqr.co",
+        "active": true
+      },
+      "ownerId": "20b6fd53-4bb3-459b-8e1a-dc88086fec10",
+      "ownerEmail": "pedro.miranda@grupomulti.com.br",
+      "uri": "https://www.figma.com/proto/mv562ynlloPtaKFVMulUv/Multi-QR-%5BUx%5D",
+      "token": "rT35c",
+      "shares": [
+        {
+          "urlId": "94d561f2-5ba0-4bd1-a512-bf3c98caf27a",
+          "userId": "20b6fd53-4bb3-459b-8e1a-dc88086fec11",
+          "userEmail": "maria.silva@grupomulti.com.br"
+        },
+        {
+          "urlId": "94d561f2-5ba0-4bd1-a512-bf3c98caf27a",
+          "userId": "7373744c-2def-45a1-9c23-d58ba9dbc405",
+          "userEmail": "joao.santos@grupomulti.com.br"
+        }
+      ],
+      "redirectDefault": {
+        "id": "string",
+        "description": "https://www.multilaser.com.br"
+      },
+      "active": true,
+      "description": "Link para o cadastro de produtos, acesso dos funcionários e comparação de benefícios, analise dos campos deve ser realizada com cautela e discrição. Favor não desrespeitar essas normas e regras att a gerência, atentar também ao uniforme/politica mult",
+      "date": "21/03/2024"
+    },
+    {
+      "id": "94d561f2-5ba0-4bd1-a512-bf3c98caf27b",
+      "accessType": {
+        "id": "8a808d54-29c6-4881-8e4a-723dab300d13",
+        "description": "Próprio",
+        "active": true
+      },
+      "redirectType": {
+        "id": "4e0ee853-74da-490f-a6d4-09c9d6c22695",
+        "description": "Temporário",
+        "active": true
+      },
+      "domain": {
+        "id": "7cde8655-61e4-49ac-88b5-8b2debc19d11",
+        "description": "multiqr.co",
+        "active": true
+      },
+      "ownerId": "20b6fd53-4bb3-459b-8e1a-dc88086fec11",
+      "ownerEmail": "maria.silva@grupomulti.com.br",
+      "uri": "https://www.figma.com/proto/mv562ynlloPtaKFVMulUw/Multi-QR-%5BUx%5D",
+      "token": "rT35d",
+      "shares": [
+        {
+          "urlId": "94d561f2-5ba0-4bd1-a512-bf3c98caf27b",
+          "userId": "7373744c-2def-45a1-9c23-d58ba9dbc404",
+          "userEmail": "maria.silva@grupomulti.com.br"
+        }
+      ],
+      "redirectDefault": {
+        "id": "string",
+        "description": "https://www.multilaser.com.br"
+      },
+      "active": false,
+      "description": "Link para o registro de vendas.",
+      "date": "22/03/2024"
+    },
+    {
+      "id": "94d561f2-5ba0-4bd1-a512-bf3c98caf27c",
+      "accessType": {
+        "id": "d3938c61-545b-4f98-a564-0e0792fc2ff9",
+        "description": "Público",
+        "active": true
+      },
+      "redirectType": {
+        "id": "4e0ee853-74da-490f-a6d4-09c9d6c22695",
+        "description": "Temporário",
+        "active": true
+      },
+      "domain": {
+        "id": "7cde8655-61e4-49ac-88b5-8b2debc19d11",
+        "description": "multiqr.co",
+        "active": true
+      },
+      "ownerId": "20b6fd53-4bb3-459b-8e1a-dc88086fec12",
+      "ownerEmail": "joao.santos@grupomulti.com.br",
+      "uri": "https://www.figma.com/proto/mv562ynlloPtaKFVMulUx/Multi-QR-%5BUx%5D",
+      "token": "rT35e",
+      "shares": [
+        {
+          "urlId": "94d561f2-5ba0-4bd1-a512-bf3c98caf27c",
+          "userId": "7373744c-2def-45a1-9c23-d58ba9dbc405",
+          "userEmail": "joao.santos@grupomulti.com.br"
+        }
+      ],
+      "redirectDefault": {
+        "id": "string",
+        "description": "https://www.multilaser.com.br"
+      },
+      "active": true,
+      "description": "Link para o catálogo de produtos.",
+      "date": "23/03/2024"
+    },
+    {
+      "id": "94d561f2-5ba0-4bd1-a512-bf3c98caf27e",
+      "accessType": {
+        "id": "d3938c61-545b-4f98-a564-0e0792fc2ff9",
+        "description": "Público",
+        "active": true
+      },
+      "redirectType": {
+        "id": "7cde8655-61e4-49ac-88b5-8b2debc19d11",
+        "description": "Permanente",
+        "active": true
+      },
+      "domain": {
+        "id": "7cde8655-61e4-49ac-88b5-8b2debc19d11",
+        "description": "multiqr.co",
+        "active": true
+      },
+      "ownerId": "20b6fd53-4bb3-459b-8e1a-dc88086fec13",
+      "ownerEmail": "carlos.rodrigues@grupomulti.com.br",
+      "uri": "https://www.figma.com/proto/mv562ynlloPtaKFVMulUy/Multi-QR-%5BUx%5D",
+      "token": "rT35f",
+      "shares": [
+        {
+          "urlId": "94d561f2-5ba0-4bd1-a512-bf3c98caf27e",
+          "userId": "7373744c-2def-45a1-9c23-d58ba9dbc406",
+          "userEmail": "carlos.rodrigues@grupomulti.com.br"
+        }
+      ],
+      "redirectDefault": {
+        "id": "string",
+        "description": "https://www.multilaser.com.br"
+      },
+      "active": true,
+      "description": "Link para o tutorial de uso.",
+      "date": "24/03/2024"
+    },
+    {
+      "id": "94d561f2-5ba0-4bd1-a512-bf3c98caf27f",
+      "accessType": {
+        "id": "8a808d54-29c6-4881-8e4a-723dab300d13",
+        "description": "Próprio",
+        "active": true
+      },
+      "redirectType": {
+        "id": "7cde8655-61e4-49ac-88b5-8b2debc19d11",
+        "description": "Permanente",
+        "active": true
+      },
+      "domain": {
+        "id": "7cde8655-61e4-49ac-88b5-8b2debc19d11",
+        "description": "multiqr.co",
+        "active": true
+      },
+      "ownerId": "20b6fd53-4bb3-459b-8e1a-dc88086fec14",
+      "ownerEmail": "ana.silveira@grupomulti.com.br",
+      "uri": "https://www.figma.com/proto/mv562ynlloPtaKFVMulUz/Multi-QR-%5BUx%5D",
+      "token": "rT35g",
+      "shares": [
+        {
+          "urlId": "94d561f2-5ba0-4bd1-a512-bf3c98caf27f",
+          "userId": "7373744c-2def-45a1-9c23-d58ba9dbc407",
+          "userEmail": "ana.silveira@grupomulti.com.br"
+        }
+      ],
+      "redirectDefault": {
+        "id": "string",
+        "description": "https://www.multilaser.com.br"
+      },
+      "active": false,
+      "description": "Link para o suporte técnico.",
+      "date": "25/03/2024"
+    },
+    {
+      "id": "94d561f2-5ba0-4bd1-a512-bf3c98caf280",
+      "accessType": {
+        "id": "a505a77f-3fe7-4753-8e48-8c2014a1cd09",
+        "description": "Compartilhado",
+        "active": true
+      },
+      "redirectType": {
+        "id": "4e0ee853-74da-490f-a6d4-09c9d6c22695",
+        "description": "Temporário",
+        "active": true
+      },
+      "domain": {
+        "id": "7cde8655-61e4-49ac-88b5-8b2debc19d11",
+        "description": "multiqr.co",
+        "active": true
+      },
+      "ownerId": "20b6fd53-4bb3-459b-8e1a-dc88086fec15",
+      "ownerEmail": "andre.silva@grupomulti.com.br",
+      "uri": "https://www.figma.com/proto/mv562ynlloPtaKFVMulUA/Multi-QR-%5BUx%5D",
+      "token": "rT35h",
+      "shares": [
+        {
+          "urlId": "94d561f2-5ba0-4bd1-a512-bf3c98caf280",
+          "userId": "7373744c-2def-45a1-9c23-d58ba9dbc408",
+          "userEmail": "andre.silva@grupomulti.com.br"
+        }
+      ],
+      "redirectDefault": {
+        "id": "string",
+        "description": "https://www.multilaser.com.br"
+      },
+      "active": true,
+      "description": "Link para o feedback dos clientes.",
+      "date": "26/03/2024"
+    },
+    {
+      "id": "94d561f2-5ba0-4bd1-a512-bf3c98caf27a",
+      "accessType": {
+        "id": "8a808d54-29c6-4881-8e4a-723dab300d13",
+        "description": "Próprio",
+        "active": true
+      },
+      "redirectType": {
+        "id": "7cde8655-61e4-49ac-88b5-8b2debc19d11",
+        "description": "Permanente",
+        "active": true
+      },
+      "domain": {
+        "id": "7cde8655-61e4-49ac-88b5-8b2debc19d11",
+        "description": "multiqr.co",
+        "active": true
+      },
+      "ownerId": "20b6fd53-4bb3-459b-8e1a-dc88086fec10",
+      "ownerEmail": "pedro.miranda@grupomulti.com.br",
+      "uri": "https://www.figma.com/proto/mv562ynlloPtaKFVMulUv/Multi-QR-%5BUx%5D",
+      "token": "rT35c",
+      "shares": [
+        {
+          "urlId": "94d561f2-5ba0-4bd1-a512-bf3c98caf27a",
+          "userId": "20b6fd53-4bb3-459b-8e1a-dc88086fec11",
+          "userEmail": "maria.silva@grupomulti.com.br"
+        },
+        {
+          "urlId": "94d561f2-5ba0-4bd1-a512-bf3c98caf27a",
+          "userId": "7373744c-2def-45a1-9c23-d58ba9dbc405",
+          "userEmail": "joao.santos@grupomulti.com.br"
+        }
+      ],
+      "redirectDefault": {
+        "id": "string",
+        "description": "https://www.multilaser.com.br"
+      },
+      "active": true,
+      "description": "Link para o cadastro de produtos.",
+      "date": "21/03/2024"
+    },
+    {
+      "id": "94d561f2-5ba0-4bd1-a512-bf3c98caf27b",
+      "accessType": {
+        "id": "8a808d54-29c6-4881-8e4a-723dab300d13",
+        "description": "Próprio",
+        "active": true
+      },
+      "redirectType": {
+        "id": "4e0ee853-74da-490f-a6d4-09c9d6c22695",
+        "description": "Temporário",
+        "active": true
+      },
+      "domain": {
+        "id": "7cde8655-61e4-49ac-88b5-8b2debc19d11",
+        "description": "multiqr.co",
+        "active": true
+      },
+      "ownerId": "20b6fd53-4bb3-459b-8e1a-dc88086fec11",
+      "ownerEmail": "maria.silva@grupomulti.com.br",
+      "uri": "https://www.figma.com/proto/mv562ynlloPtaKFVMulUw/Multi-QR-%5BUx%5D",
+      "token": "rT35d",
+      "shares": [
+        {
+          "urlId": "94d561f2-5ba0-4bd1-a512-bf3c98caf27b",
+          "userId": "7373744c-2def-45a1-9c23-d58ba9dbc404",
+          "userEmail": "maria.silva@grupomulti.com.br"
+        }
+      ],
+      "redirectDefault": {
+        "id": "string",
+        "description": "https://www.multilaser.com.br"
+      },
+      "active": false,
+      "description": "Link para o registro de vendas.",
+      "date": "22/03/2024"
+    },
+    {
+      "id": "94d561f2-5ba0-4bd1-a512-bf3c98caf27c",
+      "accessType": {
+        "id": "d3938c61-545b-4f98-a564-0e0792fc2ff9",
+        "description": "Público",
+        "active": true
+      },
+      "redirectType": {
+        "id": "4e0ee853-74da-490f-a6d4-09c9d6c22695",
+        "description": "Temporário",
+        "active": true
+      },
+      "domain": {
+        "id": "7cde8655-61e4-49ac-88b5-8b2debc19d11",
+        "description": "multiqr.co",
+        "active": true
+      },
+      "ownerId": "20b6fd53-4bb3-459b-8e1a-dc88086fec12",
+      "ownerEmail": "joao.santos@grupomulti.com.br",
+      "uri": "https://www.figma.com/proto/mv562ynlloPtaKFVMulUx/Multi-QR-%5BUx%5D",
+      "token": "rT35e",
+      "shares": [
+        {
+          "urlId": "94d561f2-5ba0-4bd1-a512-bf3c98caf27c",
+          "userId": "7373744c-2def-45a1-9c23-d58ba9dbc405",
+          "userEmail": "joao.santos@grupomulti.com.br"
+        }
+      ],
+      "redirectDefault": {
+        "id": "string",
+        "description": "https://www.multilaser.com.br"
+      },
+      "active": true,
+      "description": "Link para o catálogo de produtos.",
+      "date": "23/03/2024"
+    },
+    {
+      "id": "94d561f2-5ba0-4bd1-a512-bf3c98caf27e",
+      "accessType": {
+        "id": "d3938c61-545b-4f98-a564-0e0792fc2ff9",
+        "description": "Público",
+        "active": true
+      },
+      "redirectType": {
+        "id": "7cde8655-61e4-49ac-88b5-8b2debc19d11",
+        "description": "Permanente",
+        "active": true
+      },
+      "domain": {
+        "id": "7cde8655-61e4-49ac-88b5-8b2debc19d11",
+        "description": "multiqr.co",
+        "active": true
+      },
+      "ownerId": "20b6fd53-4bb3-459b-8e1a-dc88086fec13",
+      "ownerEmail": "carlos.rodrigues@grupomulti.com.br",
+      "uri": "https://www.figma.com/proto/mv562ynlloPtaKFVMulUy/Multi-QR-%5BUx%5D",
+      "token": "rT35f",
+      "shares": [
+        {
+          "urlId": "94d561f2-5ba0-4bd1-a512-bf3c98caf27e",
+          "userId": "7373744c-2def-45a1-9c23-d58ba9dbc406",
+          "userEmail": "carlos.rodrigues@grupomulti.com.br"
+        }
+      ],
+      "redirectDefault": {
+        "id": "string",
+        "description": "https://www.multilaser.com.br"
+      },
+      "active": true,
+      "description": "Link para o tutorial de uso.",
+      "date": "24/03/2024"
+    },
+    {
+      "id": "94d561f2-5ba0-4bd1-a512-bf3c98caf27f",
+      "accessType": {
+        "id": "8a808d54-29c6-4881-8e4a-723dab300d13",
+        "description": "Próprio",
+        "active": true
+      },
+      "redirectType": {
+        "id": "7cde8655-61e4-49ac-88b5-8b2debc19d11",
+        "description": "Permanente",
+        "active": true
+      },
+      "domain": {
+        "id": "7cde8655-61e4-49ac-88b5-8b2debc19d11",
+        "description": "multiqr.co",
+        "active": true
+      },
+      "ownerId": "20b6fd53-4bb3-459b-8e1a-dc88086fec14",
+      "ownerEmail": "ana.silveira@grupomulti.com.br",
+      "uri": "https://www.figma.com/proto/mv562ynlloPtaKFVMulUz/Multi-QR-%5BUx%5D",
+      "token": "rT35g",
+      "shares": [
+        {
+          "urlId": "94d561f2-5ba0-4bd1-a512-bf3c98caf27f",
+          "userId": "7373744c-2def-45a1-9c23-d58ba9dbc407",
+          "userEmail": "ana.silveira@grupomulti.com.br"
+        }
+      ],
+      "redirectDefault": {
+        "id": "string",
+        "description": "https://www.multilaser.com.br"
+      },
+      "active": false,
+      "description": "Link para o suporte técnico.",
+      "date": "25/03/2024"
+    },
+    {
+      "id": "94d561f2-5ba0-4bd1-a512-bf3c98caf280",
+      "accessType": {
+        "id": "a505a77f-3fe7-4753-8e48-8c2014a1cd09",
+        "description": "Compartilhado",
+        "active": true
+      },
+      "redirectType": {
+        "id": "4e0ee853-74da-490f-a6d4-09c9d6c22695",
+        "description": "Temporário",
+        "active": true
+      },
+      "domain": {
+        "id": "7cde8655-61e4-49ac-88b5-8b2debc19d11",
+        "description": "multiqr.co",
+        "active": true
+      },
+      "ownerId": "20b6fd53-4bb3-459b-8e1a-dc88086fec15",
+      "ownerEmail": "andre.silva@grupomulti.com.br",
+      "uri": "https://www.figma.com/proto/mv562ynlloPtaKFVMulUA/Multi-QR-%5BUx%5D",
+      "token": "rT35h",
+      "shares": [
+        {
+          "urlId": "94d561f2-5ba0-4bd1-a512-bf3c98caf280",
+          "userId": "7373744c-2def-45a1-9c23-d58ba9dbc408",
+          "userEmail": "andre.silva@grupomulti.com.br"
+        }
+      ],
+      "redirectDefault": {
+        "id": "string",
+        "description": "https://www.multilaser.com.br"
+      },
+      "active": true,
+      "description": "Link para o feedback dos clientes.",
+      "date": "26/03/2024"
+    },
+    {
+      "id": "94d561f2-5ba0-4bd1-a512-bf3c98caf27a",
+      "accessType": {
+        "id": "8a808d54-29c6-4881-8e4a-723dab300d13",
+        "description": "Próprio",
+        "active": true
+      },
+      "redirectType": {
+        "id": "7cde8655-61e4-49ac-88b5-8b2debc19d11",
+        "description": "Permanente",
+        "active": true
+      },
+      "domain": {
+        "id": "7cde8655-61e4-49ac-88b5-8b2debc19d11",
+        "description": "multiqr.co",
+        "active": true
+      },
+      "ownerId": "20b6fd53-4bb3-459b-8e1a-dc88086fec10",
+      "ownerEmail": "pedro.miranda@grupomulti.com.br",
+      "uri": "https://www.figma.com/proto/mv562ynlloPtaKFVMulUv/Multi-QR-%5BUx%5D",
+      "token": "rT35c",
+      "shares": [
+        {
+          "urlId": "94d561f2-5ba0-4bd1-a512-bf3c98caf27a",
+          "userId": "20b6fd53-4bb3-459b-8e1a-dc88086fec11",
+          "userEmail": "maria.silva@grupomulti.com.br"
+        },
+        {
+          "urlId": "94d561f2-5ba0-4bd1-a512-bf3c98caf27a",
+          "userId": "7373744c-2def-45a1-9c23-d58ba9dbc405",
+          "userEmail": "joao.santos@grupomulti.com.br"
+        }
+      ],
+      "redirectDefault": {
+        "id": "string",
+        "description": "https://www.multilaser.com.br"
+      },
+      "active": true,
+      "description": "Link para o cadastro de produtos.",
+      "date": "21/03/2024"
+    },
+    {
+      "id": "94d561f2-5ba0-4bd1-a512-bf3c98caf27b",
+      "accessType": {
+        "id": "8a808d54-29c6-4881-8e4a-723dab300d13",
+        "description": "Próprio",
+        "active": true
+      },
+      "redirectType": {
+        "id": "4e0ee853-74da-490f-a6d4-09c9d6c22695",
+        "description": "Temporário",
+        "active": true
+      },
+      "domain": {
+        "id": "7cde8655-61e4-49ac-88b5-8b2debc19d11",
+        "description": "multiqr.co",
+        "active": true
+      },
+      "ownerId": "20b6fd53-4bb3-459b-8e1a-dc88086fec11",
+      "ownerEmail": "maria.silva@grupomulti.com.br",
+      "uri": "https://www.figma.com/proto/mv562ynlloPtaKFVMulUw/Multi-QR-%5BUx%5D",
+      "token": "rT35d",
+      "shares": [
+        {
+          "urlId": "94d561f2-5ba0-4bd1-a512-bf3c98caf27b",
+          "userId": "7373744c-2def-45a1-9c23-d58ba9dbc404",
+          "userEmail": "maria.silva@grupomulti.com.br"
+        }
+      ],
+      "redirectDefault": {
+        "id": "string",
+        "description": "https://www.multilaser.com.br"
+      },
+      "active": false,
+      "description": "Link para o registro de vendas.",
+      "date": "22/03/2024"
+    },
+    {
+      "id": "94d561f2-5ba0-4bd1-a512-bf3c98caf27c",
+      "accessType": {
+        "id": "d3938c61-545b-4f98-a564-0e0792fc2ff9",
+        "description": "Público",
+        "active": true
+      },
+      "redirectType": {
+        "id": "4e0ee853-74da-490f-a6d4-09c9d6c22695",
+        "description": "Temporário",
+        "active": true
+      },
+      "domain": {
+        "id": "7cde8655-61e4-49ac-88b5-8b2debc19d11",
+        "description": "multiqr.co",
+        "active": true
+      },
+      "ownerId": "20b6fd53-4bb3-459b-8e1a-dc88086fec12",
+      "ownerEmail": "joao.santos@grupomulti.com.br",
+      "uri": "https://www.figma.com/proto/mv562ynlloPtaKFVMulUx/Multi-QR-%5BUx%5D",
+      "token": "rT35e",
+      "shares": [
+        {
+          "urlId": "94d561f2-5ba0-4bd1-a512-bf3c98caf27c",
+          "userId": "7373744c-2def-45a1-9c23-d58ba9dbc405",
+          "userEmail": "joao.santos@grupomulti.com.br"
+        }
+      ],
+      "redirectDefault": {
+        "id": "string",
+        "description": "https://www.multilaser.com.br"
+      },
+      "active": true,
+      "description": "Link para o catálogo de produtos.",
+      "date": "23/03/2024"
+    },
+    {
+      "id": "94d561f2-5ba0-4bd1-a512-bf3c98caf27e",
+      "accessType": {
+        "id": "d3938c61-545b-4f98-a564-0e0792fc2ff9",
+        "description": "Público",
+        "active": true
+      },
+      "redirectType": {
+        "id": "7cde8655-61e4-49ac-88b5-8b2debc19d11",
+        "description": "Permanente",
+        "active": true
+      },
+      "domain": {
+        "id": "7cde8655-61e4-49ac-88b5-8b2debc19d11",
+        "description": "multiqr.co",
+        "active": true
+      },
+      "ownerId": "20b6fd53-4bb3-459b-8e1a-dc88086fec13",
+      "ownerEmail": "carlos.rodrigues@grupomulti.com.br",
+      "uri": "https://www.figma.com/proto/mv562ynlloPtaKFVMulUy/Multi-QR-%5BUx%5D",
+      "token": "rT35f",
+      "shares": [
+        {
+          "urlId": "94d561f2-5ba0-4bd1-a512-bf3c98caf27e",
+          "userId": "7373744c-2def-45a1-9c23-d58ba9dbc406",
+          "userEmail": "carlos.rodrigues@grupomulti.com.br"
+        }
+      ],
+      "redirectDefault": {
+        "id": "string",
+        "description": "https://www.multilaser.com.br"
+      },
+      "active": true,
+      "description": "Link para o tutorial de uso.",
+      "date": "24/03/2024"
+    },
+    {
+      "id": "94d561f2-5ba0-4bd1-a512-bf3c98caf27f",
+      "accessType": {
+        "id": "8a808d54-29c6-4881-8e4a-723dab300d13",
+        "description": "Próprio",
+        "active": true
+      },
+      "redirectType": {
+        "id": "7cde8655-61e4-49ac-88b5-8b2debc19d11",
+        "description": "Permanente",
+        "active": true
+      },
+      "domain": {
+        "id": "7cde8655-61e4-49ac-88b5-8b2debc19d11",
+        "description": "multiqr.co",
+        "active": true
+      },
+      "ownerId": "20b6fd53-4bb3-459b-8e1a-dc88086fec14",
+      "ownerEmail": "ana.silveira@grupomulti.com.br",
+      "uri": "https://www.figma.com/proto/mv562ynlloPtaKFVMulUz/Multi-QR-%5BUx%5D",
+      "token": "rT35g",
+      "shares": [
+        {
+          "urlId": "94d561f2-5ba0-4bd1-a512-bf3c98caf27f",
+          "userId": "7373744c-2def-45a1-9c23-d58ba9dbc407",
+          "userEmail": "ana.silveira@grupomulti.com.br"
+        }
+      ],
+      "redirectDefault": {
+        "id": "string",
+        "description": "https://www.multilaser.com.br"
+      },
+      "active": false,
+      "description": "Link para o suporte técnico.",
+      "date": "25/03/2024"
+    },
+    {
+      "id": "94d561f2-5ba0-4bd1-a512-bf3c98caf280",
+      "accessType": {
+        "id": "a505a77f-3fe7-4753-8e48-8c2014a1cd09",
+        "description": "Compartilhado",
+        "active": true
+      },
+      "redirectType": {
+        "id": "4e0ee853-74da-490f-a6d4-09c9d6c22695",
+        "description": "Temporário",
+        "active": true
+      },
+      "domain": {
+        "id": "7cde8655-61e4-49ac-88b5-8b2debc19d11",
+        "description": "multiqr.co",
+        "active": true
+      },
+      "ownerId": "20b6fd53-4bb3-459b-8e1a-dc88086fec15",
+      "ownerEmail": "andre.silva@grupomulti.com.br",
+      "uri": "https://www.figma.com/proto/mv562ynlloPtaKFVMulUA/Multi-QR-%5BUx%5D",
+      "token": "rT35h",
+      "shares": [
+        {
+          "urlId": "94d561f2-5ba0-4bd1-a512-bf3c98caf280",
+          "userId": "7373744c-2def-45a1-9c23-d58ba9dbc408",
+          "userEmail": "andre.silva@grupomulti.com.br"
+        }
+      ],
+      "redirectDefault": {
+        "id": "string",
+        "description": "https://www.multilaser.com.br"
+      },
+      "active": true,
+      "description": "Link para o feedback dos clientes.",
+      "date": "26/03/2024"
+    },
+    {
+      "id": "94d561f2-5ba0-4bd1-a512-bf3c98caf27a",
+      "accessType": {
+        "id": "8a808d54-29c6-4881-8e4a-723dab300d13",
+        "description": "Próprio",
+        "active": true
+      },
+      "redirectType": {
+        "id": "7cde8655-61e4-49ac-88b5-8b2debc19d11",
+        "description": "Permanente",
+        "active": true
+      },
+      "domain": {
+        "id": "7cde8655-61e4-49ac-88b5-8b2debc19d11",
+        "description": "multiqr.co",
+        "active": true
+      },
+      "ownerId": "20b6fd53-4bb3-459b-8e1a-dc88086fec10",
+      "ownerEmail": "pedro.miranda@grupomulti.com.br",
+      "uri": "https://www.figma.com/proto/mv562ynlloPtaKFVMulUv/Multi-QR-%5BUx%5D",
+      "token": "rT35c",
+      "shares": [
+        {
+          "urlId": "94d561f2-5ba0-4bd1-a512-bf3c98caf27a",
+          "userId": "20b6fd53-4bb3-459b-8e1a-dc88086fec11",
+          "userEmail": "maria.silva@grupomulti.com.br"
+        },
+        {
+          "urlId": "94d561f2-5ba0-4bd1-a512-bf3c98caf27a",
+          "userId": "7373744c-2def-45a1-9c23-d58ba9dbc405",
+          "userEmail": "joao.santos@grupomulti.com.br"
+        }
+      ],
+      "redirectDefault": {
+        "id": "string",
+        "description": "https://www.multilaser.com.br"
+      },
+      "active": true,
+      "description": "Link para o cadastro de produtos.",
+      "date": "21/03/2024"
+    },
+    {
+      "id": "94d561f2-5ba0-4bd1-a512-bf3c98caf27b",
+      "accessType": {
+        "id": "8a808d54-29c6-4881-8e4a-723dab300d13",
+        "description": "Próprio",
+        "active": true
+      },
+      "redirectType": {
+        "id": "4e0ee853-74da-490f-a6d4-09c9d6c22695",
+        "description": "Temporário",
+        "active": true
+      },
+      "domain": {
+        "id": "7cde8655-61e4-49ac-88b5-8b2debc19d11",
+        "description": "multiqr.co",
+        "active": true
+      },
+      "ownerId": "20b6fd53-4bb3-459b-8e1a-dc88086fec11",
+      "ownerEmail": "maria.silva@grupomulti.com.br",
+      "uri": "https://www.figma.com/proto/mv562ynlloPtaKFVMulUw/Multi-QR-%5BUx%5D",
+      "token": "rT35d",
+      "shares": [
+        {
+          "urlId": "94d561f2-5ba0-4bd1-a512-bf3c98caf27b",
+          "userId": "7373744c-2def-45a1-9c23-d58ba9dbc404",
+          "userEmail": "maria.silva@grupomulti.com.br"
+        }
+      ],
+      "redirectDefault": {
+        "id": "string",
+        "description": "https://www.multilaser.com.br"
+      },
+      "active": false,
+      "description": "Link para o registro de vendas.",
+      "date": "22/03/2024"
+    },
+    {
+      "id": "94d561f2-5ba0-4bd1-a512-bf3c98caf27c",
+      "accessType": {
+        "id": "d3938c61-545b-4f98-a564-0e0792fc2ff9",
+        "description": "Público",
+        "active": true
+      },
+      "redirectType": {
+        "id": "4e0ee853-74da-490f-a6d4-09c9d6c22695",
+        "description": "Temporário",
+        "active": true
+      },
+      "domain": {
+        "id": "7cde8655-61e4-49ac-88b5-8b2debc19d11",
+        "description": "multiqr.co",
+        "active": true
+      },
+      "ownerId": "20b6fd53-4bb3-459b-8e1a-dc88086fec12",
+      "ownerEmail": "joao.santos@grupomulti.com.br",
+      "uri": "https://www.figma.com/proto/mv562ynlloPtaKFVMulUx/Multi-QR-%5BUx%5D",
+      "token": "rT35e",
+      "shares": [
+        {
+          "urlId": "94d561f2-5ba0-4bd1-a512-bf3c98caf27c",
+          "userId": "7373744c-2def-45a1-9c23-d58ba9dbc405",
+          "userEmail": "joao.santos@grupomulti.com.br"
+        }
+      ],
+      "redirectDefault": {
+        "id": "string",
+        "description": "https://www.multilaser.com.br"
+      },
+      "active": true,
+      "description": "Link para o catálogo de produtos.",
+      "date": "23/03/2024"
+    },
+    {
+      "id": "94d561f2-5ba0-4bd1-a512-bf3c98caf27e",
+      "accessType": {
+        "id": "d3938c61-545b-4f98-a564-0e0792fc2ff9",
+        "description": "Público",
+        "active": true
+      },
+      "redirectType": {
+        "id": "7cde8655-61e4-49ac-88b5-8b2debc19d11",
+        "description": "Permanente",
+        "active": true
+      },
+      "domain": {
+        "id": "7cde8655-61e4-49ac-88b5-8b2debc19d11",
+        "description": "multiqr.co",
+        "active": true
+      },
+      "ownerId": "20b6fd53-4bb3-459b-8e1a-dc88086fec13",
+      "ownerEmail": "carlos.rodrigues@grupomulti.com.br",
+      "uri": "https://www.figma.com/proto/mv562ynlloPtaKFVMulUy/Multi-QR-%5BUx%5D",
+      "token": "rT35f",
+      "shares": [
+        {
+          "urlId": "94d561f2-5ba0-4bd1-a512-bf3c98caf27e",
+          "userId": "7373744c-2def-45a1-9c23-d58ba9dbc406",
+          "userEmail": "carlos.rodrigues@grupomulti.com.br"
+        }
+      ],
+      "redirectDefault": {
+        "id": "string",
+        "description": "https://www.multilaser.com.br"
+      },
+      "active": true,
+      "description": "Link para o tutorial de uso.",
+      "date": "24/03/2024"
+    },
+    {
+      "id": "94d561f2-5ba0-4bd1-a512-bf3c98caf27f",
+      "accessType": {
+        "id": "8a808d54-29c6-4881-8e4a-723dab300d13",
+        "description": "Próprio",
+        "active": true
+      },
+      "redirectType": {
+        "id": "7cde8655-61e4-49ac-88b5-8b2debc19d11",
+        "description": "Permanente",
+        "active": true
+      },
+      "domain": {
+        "id": "7cde8655-61e4-49ac-88b5-8b2debc19d11",
+        "description": "multiqr.co",
+        "active": true
+      },
+      "ownerId": "20b6fd53-4bb3-459b-8e1a-dc88086fec14",
+      "ownerEmail": "ana.silveira@grupomulti.com.br",
+      "uri": "https://www.figma.com/proto/mv562ynlloPtaKFVMulUz/Multi-QR-%5BUx%5D",
+      "token": "rT35g",
+      "shares": [
+        {
+          "urlId": "94d561f2-5ba0-4bd1-a512-bf3c98caf27f",
+          "userId": "7373744c-2def-45a1-9c23-d58ba9dbc407",
+          "userEmail": "ana.silveira@grupomulti.com.br"
+        }
+      ],
+      "redirectDefault": {
+        "id": "string",
+        "description": "https://www.multilaser.com.br"
+      },
+      "active": false,
+      "description": "Link para o suporte técnico.",
+      "date": "25/03/2024"
+    },
+    {
+      "id": "94d561f2-5ba0-4bd1-a512-bf3c98caf280",
+      "accessType": {
+        "id": "a505a77f-3fe7-4753-8e48-8c2014a1cd09",
+        "description": "Compartilhado",
+        "active": true
+      },
+      "redirectType": {
+        "id": "4e0ee853-74da-490f-a6d4-09c9d6c22695",
+        "description": "Temporário",
+        "active": true
+      },
+      "domain": {
+        "id": "7cde8655-61e4-49ac-88b5-8b2debc19d11",
+        "description": "multiqr.co",
+        "active": true
+      },
+      "ownerId": "20b6fd53-4bb3-459b-8e1a-dc88086fec15",
+      "ownerEmail": "andre.silva@grupomulti.com.br",
+      "uri": "https://www.figma.com/proto/mv562ynlloPtaKFVMulUA/Multi-QR-%5BUx%5D",
+      "token": "rT35h",
+      "shares": [
+        {
+          "urlId": "94d561f2-5ba0-4bd1-a512-bf3c98caf280",
+          "userId": "7373744c-2def-45a1-9c23-d58ba9dbc408",
+          "userEmail": "andre.silva@grupomulti.com.br"
+        }
+      ],
+      "redirectDefault": {
+        "id": "string",
+        "description": "https://www.multilaser.com.br"
+      },
+      "active": true,
+      "description": "Link para o feedback dos clientes.",
+      "date": "26/03/2024"
+    },
+    {
+      "id": "94d561f2-5ba0-4bd1-a512-bf3c98caf27a",
+      "accessType": {
+        "id": "8a808d54-29c6-4881-8e4a-723dab300d13",
+        "description": "Próprio",
+        "active": true
+      },
+      "redirectType": {
+        "id": "7cde8655-61e4-49ac-88b5-8b2debc19d11",
+        "description": "Permanente",
+        "active": true
+      },
+      "domain": {
+        "id": "7cde8655-61e4-49ac-88b5-8b2debc19d11",
+        "description": "multiqr.co",
+        "active": true
+      },
+      "ownerId": "20b6fd53-4bb3-459b-8e1a-dc88086fec10",
+      "ownerEmail": "pedro.miranda@grupomulti.com.br",
+      "uri": "https://www.figma.com/proto/mv562ynlloPtaKFVMulUv/Multi-QR-%5BUx%5D",
+      "token": "rT35c",
+      "shares": [
+        {
+          "urlId": "94d561f2-5ba0-4bd1-a512-bf3c98caf27a",
+          "userId": "20b6fd53-4bb3-459b-8e1a-dc88086fec11",
+          "userEmail": "maria.silva@grupomulti.com.br"
+        },
+        {
+          "urlId": "94d561f2-5ba0-4bd1-a512-bf3c98caf27a",
+          "userId": "7373744c-2def-45a1-9c23-d58ba9dbc405",
+          "userEmail": "joao.santos@grupomulti.com.br"
+        }
+      ],
+      "redirectDefault": {
+        "id": "string",
+        "description": "https://www.multilaser.com.br"
+      },
+      "active": true,
+      "description": "Link para o cadastro de produtos.",
+      "date": "21/03/2024"
+    },
+    {
+      "id": "94d561f2-5ba0-4bd1-a512-bf3c98caf27b",
+      "accessType": {
+        "id": "8a808d54-29c6-4881-8e4a-723dab300d13",
+        "description": "Próprio",
+        "active": true
+      },
+      "redirectType": {
+        "id": "4e0ee853-74da-490f-a6d4-09c9d6c22695",
+        "description": "Temporário",
+        "active": true
+      },
+      "domain": {
+        "id": "7cde8655-61e4-49ac-88b5-8b2debc19d11",
+        "description": "multiqr.co",
+        "active": true
+      },
+      "ownerId": "20b6fd53-4bb3-459b-8e1a-dc88086fec11",
+      "ownerEmail": "maria.silva@grupomulti.com.br",
+      "uri": "https://www.figma.com/proto/mv562ynlloPtaKFVMulUw/Multi-QR-%5BUx%5D",
+      "token": "rT35d",
+      "shares": [
+        {
+          "urlId": "94d561f2-5ba0-4bd1-a512-bf3c98caf27b",
+          "userId": "7373744c-2def-45a1-9c23-d58ba9dbc404",
+          "userEmail": "maria.silva@grupomulti.com.br"
+        }
+      ],
+      "redirectDefault": {
+        "id": "string",
+        "description": "https://www.multilaser.com.br"
+      },
+      "active": false,
+      "description": "Link para o registro de vendas.",
+      "date": "22/03/2024"
+    },
+    {
+      "id": "94d561f2-5ba0-4bd1-a512-bf3c98caf27c",
+      "accessType": {
+        "id": "d3938c61-545b-4f98-a564-0e0792fc2ff9",
+        "description": "Público",
+        "active": true
+      },
+      "redirectType": {
+        "id": "4e0ee853-74da-490f-a6d4-09c9d6c22695",
+        "description": "Temporário",
+        "active": true
+      },
+      "domain": {
+        "id": "7cde8655-61e4-49ac-88b5-8b2debc19d11",
+        "description": "multiqr.co",
+        "active": true
+      },
+      "ownerId": "20b6fd53-4bb3-459b-8e1a-dc88086fec12",
+      "ownerEmail": "joao.santos@grupomulti.com.br",
+      "uri": "https://www.figma.com/proto/mv562ynlloPtaKFVMulUx/Multi-QR-%5BUx%5D",
+      "token": "rT35e",
+      "shares": [
+        {
+          "urlId": "94d561f2-5ba0-4bd1-a512-bf3c98caf27c",
+          "userId": "7373744c-2def-45a1-9c23-d58ba9dbc405",
+          "userEmail": "joao.santos@grupomulti.com.br"
+        }
+      ],
+      "redirectDefault": {
+        "id": "string",
+        "description": "https://www.multilaser.com.br"
+      },
+      "active": true,
+      "description": "Link para o catálogo de produtos.",
+      "date": "23/03/2024"
+    },
+    {
+      "id": "94d561f2-5ba0-4bd1-a512-bf3c98caf27e",
+      "accessType": {
+        "id": "d3938c61-545b-4f98-a564-0e0792fc2ff9",
+        "description": "Público",
+        "active": true
+      },
+      "redirectType": {
+        "id": "7cde8655-61e4-49ac-88b5-8b2debc19d11",
+        "description": "Permanente",
+        "active": true
+      },
+      "domain": {
+        "id": "7cde8655-61e4-49ac-88b5-8b2debc19d11",
+        "description": "multiqr.co",
+        "active": true
+      },
+      "ownerId": "20b6fd53-4bb3-459b-8e1a-dc88086fec13",
+      "ownerEmail": "carlos.rodrigues@grupomulti.com.br",
+      "uri": "https://www.figma.com/proto/mv562ynlloPtaKFVMulUy/Multi-QR-%5BUx%5D",
+      "token": "rT35f",
+      "shares": [
+        {
+          "urlId": "94d561f2-5ba0-4bd1-a512-bf3c98caf27e",
+          "userId": "7373744c-2def-45a1-9c23-d58ba9dbc406",
+          "userEmail": "carlos.rodrigues@grupomulti.com.br"
+        }
+      ],
+      "redirectDefault": {
+        "id": "string",
+        "description": "https://www.multilaser.com.br"
+      },
+      "active": true,
+      "description": "Link para o tutorial de uso.",
+      "date": "24/03/2024"
+    },
+    {
+      "id": "94d561f2-5ba0-4bd1-a512-bf3c98caf27f",
+      "accessType": {
+        "id": "8a808d54-29c6-4881-8e4a-723dab300d13",
+        "description": "Próprio",
+        "active": true
+      },
+      "redirectType": {
+        "id": "7cde8655-61e4-49ac-88b5-8b2debc19d11",
+        "description": "Permanente",
+        "active": true
+      },
+      "domain": {
+        "id": "7cde8655-61e4-49ac-88b5-8b2debc19d11",
+        "description": "multiqr.co",
+        "active": true
+      },
+      "ownerId": "20b6fd53-4bb3-459b-8e1a-dc88086fec14",
+      "ownerEmail": "ana.silveira@grupomulti.com.br",
+      "uri": "https://www.figma.com/proto/mv562ynlloPtaKFVMulUz/Multi-QR-%5BUx%5D",
+      "token": "rT35g",
+      "shares": [
+        {
+          "urlId": "94d561f2-5ba0-4bd1-a512-bf3c98caf27f",
+          "userId": "7373744c-2def-45a1-9c23-d58ba9dbc407",
+          "userEmail": "ana.silveira@grupomulti.com.br"
+        }
+      ],
+      "redirectDefault": {
+        "id": "string",
+        "description": "https://www.multilaser.com.br"
+      },
+      "active": false,
+      "description": "Link para o suporte técnico.",
+      "date": "25/03/2024"
+    },
+    {
+      "id": "94d561f2-5ba0-4bd1-a512-bf3c98caf280",
+      "accessType": {
+        "id": "a505a77f-3fe7-4753-8e48-8c2014a1cd09",
+        "description": "Compartilhado",
+        "active": true
+      },
+      "redirectType": {
+        "id": "4e0ee853-74da-490f-a6d4-09c9d6c22695",
+        "description": "Temporário",
+        "active": true
+      },
+      "domain": {
+        "id": "7cde8655-61e4-49ac-88b5-8b2debc19d11",
+        "description": "multiqr.co",
+        "active": true
+      },
+      "ownerId": "20b6fd53-4bb3-459b-8e1a-dc88086fec15",
+      "ownerEmail": "andre.silva@grupomulti.com.br",
+      "uri": "https://www.figma.com/proto/mv562ynlloPtaKFVMulUA/Multi-QR-%5BUx%5D",
+      "token": "rT35h",
+      "shares": [
+        {
+          "urlId": "94d561f2-5ba0-4bd1-a512-bf3c98caf280",
+          "userId": "7373744c-2def-45a1-9c23-d58ba9dbc408",
+          "userEmail": "andre.silva@grupomulti.com.br"
+        }
+      ],
+      "redirectDefault": {
+        "id": "string",
+        "description": "https://www.multilaser.com.br"
+      },
+      "active": true,
+      "description": "Link para o feedback dos clientes.",
+      "date": "26/03/2024"
+    }
+  ]
+}

@@ -1,5 +1,8 @@
 import React from "react";
+import Cards from "@/presentation/views/Cards";
 
-export default function Page() {
-  return <h1>Hello, Next.js!</h1>;
-}
+const Page = () => {
+  return <Cards />;
+};
+
+export default Page;
